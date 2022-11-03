@@ -1,0 +1,1526 @@
+1667395445304	geckodriver	INFO	Listening on 127.0.0.1:48561
+1667395445820	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileapz2BL"
+Gtk-Message: 17:24:05.882: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667395447965	Marionette	INFO	Marionette enabled
+1667395447979	Marionette	INFO	Listening on port 37661
+Read port: 37661
+WebDriver BiDi listening on ws://127.0.0.1:55897
+1667395448277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileapz2BL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55897/devtools/browser/e6d552a6-7e70-4d03-b57f-4c0e1c43acb1
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 4222 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667395565552	geckodriver	INFO	Listening on 127.0.0.1:41493
+1667395565822	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0PzmzK"
+Gtk-Message: 17:26:05.893: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667395567324	Marionette	INFO	Marionette enabled
+1667395567329	Marionette	INFO	Listening on port 45593
+WebDriver BiDi listening on ws://127.0.0.1:53151
+Read port: 45593
+1667395567572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0PzmzK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53151/devtools/browser/de886b0a-d358-45e9-8157-072b447cf5dc
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667396114945	Marionette	INFO	Stopped listening on port 45593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667396117152	Marionette	INFO	Stopped listening on port 37661
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667396742192	geckodriver	INFO	Listening on 127.0.0.1:52449
+1667396742716	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVnceiy"
+Gtk-Message: 17:45:42.784: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667396744435	Marionette	INFO	Marionette enabled
+1667396744439	Marionette	INFO	Listening on port 45015
+Read port: 45015
+WebDriver BiDi listening on ws://127.0.0.1:36427
+1667396744630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVnceiy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36427/devtools/browser/16500ca8-d6fa-4def-a810-d07fdc15ae7f
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 1630 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667396798105	geckodriver	INFO	Listening on 127.0.0.1:52527
+1667396798509	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5UoRwt"
+Gtk-Message: 17:46:38.581: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667396800182	Marionette	INFO	Marionette enabled
+1667396800187	Marionette	INFO	Listening on port 36215
+Read port: 36215
+WebDriver BiDi listening on ws://127.0.0.1:41371
+1667396800424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5UoRwt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41371/devtools/browser/13c5309b-f787-4848-a10b-35b58bc22948
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 274 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667396864303	geckodriver	INFO	Listening on 127.0.0.1:58511
+1667396864743	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJdZUPs"
+Gtk-Message: 17:47:44.814: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667396866237	Marionette	INFO	Marionette enabled
+1667396866245	Marionette	INFO	Listening on port 34271
+Read port: 34271
+WebDriver BiDi listening on ws://127.0.0.1:52467
+1667396866531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJdZUPs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52467/devtools/browser/0beca6a8-0da6-45b2-a360-104f029d004b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667396891454	Marionette	INFO	Stopped listening on port 34271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667396893673	Marionette	INFO	Stopped listening on port 36215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667396895821	Marionette	INFO	Stopped listening on port 45015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667396905900	geckodriver	INFO	Listening on 127.0.0.1:45497
+1667396906274	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4t9jYI"
+Gtk-Message: 17:48:26.342: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667396907676	Marionette	INFO	Marionette enabled
+1667396907680	Marionette	INFO	Listening on port 46375
+Read port: 46375
+WebDriver BiDi listening on ws://127.0.0.1:60003
+1667396907912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4t9jYI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60003/devtools/browser/ab3f88f0-d687-4def-bc97-ee51bf0a48bb
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 5621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667396973988	geckodriver	INFO	Listening on 127.0.0.1:39299
+1667396974404	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNSK4Af"
+Gtk-Message: 17:49:34.473: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667396975426	Marionette	INFO	Marionette enabled
+1667396975430	Marionette	INFO	Listening on port 41967
+Read port: 41967
+WebDriver BiDi listening on ws://127.0.0.1:35583
+1667396975717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNSK4Af/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35583/devtools/browser/f43404b2-2aec-4cf5-bfb2-18df33325825
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 5921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1667458280082	geckodriver	INFO	Listening on 127.0.0.1:46973
+1667458280638	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqjGHl7"
+Gtk-Message: 10:51:20.716: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667458282133	Marionette	INFO	Marionette enabled
+1667458282138	Marionette	INFO	Listening on port 44615
+Read port: 44615
+WebDriver BiDi listening on ws://127.0.0.1:49087
+1667458282393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqjGHl7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49087/devtools/browser/8ee4216f-4f4a-4c31-8e39-ef6414e5dd48
+1667458335276	geckodriver	INFO	Listening on 127.0.0.1:41319
+1667458335681	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileicGX9x"
+Gtk-Message: 10:52:15.748: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667458336476	Marionette	INFO	Marionette enabled
+1667458336480	Marionette	INFO	Listening on port 34335
+Read port: 34335
+WebDriver BiDi listening on ws://127.0.0.1:44065
+1667458336750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileicGX9x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44065/devtools/browser/d8cd04ae-1709-456e-8560-6abbf4549ae6
+1667458346871	Marionette	INFO	Stopped listening on port 44615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1667458528206	geckodriver	INFO	Listening on 127.0.0.1:55905
+1667458528693	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTcRzOF"
+Gtk-Message: 10:55:28.783: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667458529656	Marionette	INFO	Marionette enabled
+1667458529659	Marionette	INFO	Listening on port 37357
+Read port: 37357
+WebDriver BiDi listening on ws://127.0.0.1:41057
+1667458529766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTcRzOF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41057/devtools/browser/c871cde4-c586-40e3-be36-8d2186f7db46
+1667458601711	geckodriver	INFO	Listening on 127.0.0.1:39875
+1667458602034	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeixELb"
+Gtk-Message: 10:56:42.123: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667458603535	Marionette	INFO	Marionette enabled
+1667458603543	Marionette	INFO	Listening on port 45059
+Read port: 45059
+WebDriver BiDi listening on ws://127.0.0.1:48843
+1667458603851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeixELb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48843/devtools/browser/2375e4d0-0dea-44a9-9aa6-2d2a62c27894
+1667458607305	Marionette	INFO	Stopped listening on port 37357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1667458609589	Marionette	INFO	Stopped listening on port 34335
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667458629875	geckodriver	INFO	Listening on 127.0.0.1:52887
+1667458630473	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTLPPHn"
+Gtk-Message: 10:57:10.543: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 7207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667458631804	Marionette	INFO	Marionette enabled
+1667458631807	Marionette	INFO	Listening on port 38617
+Read port: 38617
+WebDriver BiDi listening on ws://127.0.0.1:54801
+1667458632007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTLPPHn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54801/devtools/browser/50e306e5-40d4-462c-b9a5-8af51b20986a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3054 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2444 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 5264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667458985045	geckodriver	INFO	Listening on 127.0.0.1:48629
+1667458985642	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenUylkq"
+Gtk-Message: 11:03:05.710: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667458986818	Marionette	INFO	Marionette enabled
+1667458986821	Marionette	INFO	Listening on port 45511
+Read port: 45511
+WebDriver BiDi listening on ws://127.0.0.1:38333
+1667458987019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenUylkq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38333/devtools/browser/5a18b969-c2c7-47fa-b359-92f6ac6139f0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459008889	geckodriver	INFO	Listening on 127.0.0.1:41153
+1667459009053	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTYq6Xp"
+Gtk-Message: 11:03:29.135: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459009859	Marionette	INFO	Marionette enabled
+1667459009862	Marionette	INFO	Listening on port 46373
+WebDriver BiDi listening on ws://127.0.0.1:47753
+Read port: 46373
+1667459010125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTYq6Xp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47753/devtools/browser/1da6487e-f183-4cda-97f1-d56970098891
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667459016658	Marionette	INFO	Stopped listening on port 45511
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4192 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6818 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459018601	Marionette	INFO	Stopped listening on port 38617
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667459019188	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459020567	Marionette	INFO	Stopped listening on port 45059
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667459095552	geckodriver	INFO	Listening on 127.0.0.1:54759
+1667459096018	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewuUVF2"
+Gtk-Message: 11:04:56.089: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459096924	Marionette	INFO	Marionette enabled
+1667459096926	Marionette	INFO	Listening on port 36593
+Read port: 36593
+WebDriver BiDi listening on ws://127.0.0.1:45925
+1667459097175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewuUVF2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45925/devtools/browser/7049b895-2f6f-4a37-a574-26a20848dcdb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667459104432	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667459104476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1462 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459106722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459115840	geckodriver	INFO	Listening on 127.0.0.1:49787
+1667459116194	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDeP1M3"
+Gtk-Message: 11:05:16.266: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459117053	Marionette	INFO	Marionette enabled
+1667459117055	Marionette	INFO	Listening on port 44089
+Read port: 44089
+WebDriver BiDi listening on ws://127.0.0.1:50039
+1667459117128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDeP1M3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50039/devtools/browser/4ce9fb61-0865-45db-ad31-38417c51abea
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667459122742	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667459123643	Marionette	INFO	Stopped listening on port 36593
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459124726	Marionette	INFO	Stopped listening on port 46373
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1379 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459210450	geckodriver	INFO	Listening on 127.0.0.1:58213
+1667459210873	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGMdFS7"
+Gtk-Message: 11:06:50.942: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459211901	Marionette	INFO	Marionette enabled
+1667459211903	Marionette	INFO	Listening on port 37583
+Read port: 37583
+WebDriver BiDi listening on ws://127.0.0.1:49831
+1667459212077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGMdFS7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49831/devtools/browser/326a4664-0bd5-4a00-94a2-15f36371995e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 341 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459222838	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459274592	geckodriver	INFO	Listening on 127.0.0.1:47053
+1667459275072	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHAY7Lr"
+Gtk-Message: 11:07:55.141: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459275909	Marionette	INFO	Marionette enabled
+1667459275912	Marionette	INFO	Listening on port 39875
+WebDriver BiDi listening on ws://127.0.0.1:35007
+Read port: 39875
+1667459276084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHAY7Lr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35007/devtools/browser/84299125-a8df-4794-aa43-a92667f2c98d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 433 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 839 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459281677	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667459282171	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459307285	Marionette	INFO	Stopped listening on port 39875
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667459308332	Marionette	INFO	Stopped listening on port 37583
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667459309453	Marionette	INFO	Stopped listening on port 44089
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667459545785	geckodriver	INFO	Listening on 127.0.0.1:36285
+1667459546220	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8cYGwv"
+Gtk-Message: 11:12:26.286: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459547246	Marionette	INFO	Marionette enabled
+1667459547250	Marionette	INFO	Listening on port 45977
+Read port: 45977
+WebDriver BiDi listening on ws://127.0.0.1:56655
+1667459547495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8cYGwv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56655/devtools/browser/65019588-39e8-41d8-88b1-c88484773aba
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459594594	geckodriver	INFO	Listening on 127.0.0.1:37199
+1667459595101	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemZaf9w"
+Gtk-Message: 11:13:15.171: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459596169	Marionette	INFO	Marionette enabled
+1667459596172	Marionette	INFO	Listening on port 39405
+Read port: 39405
+WebDriver BiDi listening on ws://127.0.0.1:59823
+1667459596256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemZaf9w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59823/devtools/browser/d1b3cf26-1794-4dc4-8420-1adc9167a0d7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667459602438	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7100 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5247 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459658527	geckodriver	INFO	Listening on 127.0.0.1:37617
+1667459658977	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoi7wcc"
+Gtk-Message: 11:14:19.050: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459659697	Marionette	INFO	Marionette enabled
+1667459659700	Marionette	INFO	Listening on port 44135
+Read port: 44135
+WebDriver BiDi listening on ws://127.0.0.1:60393
+1667459659905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoi7wcc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60393/devtools/browser/1119e188-51bd-4685-be8f-15d3fc71c8c5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 365 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1716 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459698536	geckodriver	INFO	Listening on 127.0.0.1:52821
+1667459698932	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0LPD5J"
+Gtk-Message: 11:14:59.004: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459699857	Marionette	INFO	Marionette enabled
+1667459699861	Marionette	INFO	Listening on port 40347
+WebDriver BiDi listening on ws://127.0.0.1:52505
+Read port: 40347
+1667459700049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0LPD5J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52505/devtools/browser/206df4c2-ec3b-4bf0-94ab-d2255abd68cd
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667459703437	Marionette	INFO	Stopped listening on port 45977
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1667459704595	Marionette	INFO	Stopped listening on port 39405
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667459705633	Marionette	INFO	Stopped listening on port 44135
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2421 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3126 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 253 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459736327	geckodriver	INFO	Listening on 127.0.0.1:50327
+1667459736782	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDU5Qnv"
+Gtk-Message: 11:15:36.852: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459738102	Marionette	INFO	Marionette enabled
+1667459738112	Marionette	INFO	Listening on port 35529
+Read port: 35529
+WebDriver BiDi listening on ws://127.0.0.1:33885
+1667459738364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDU5Qnv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33885/devtools/browser/0dadbde1-a365-42ac-a06f-b73a0e5daa4c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3367 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5314 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459860183	geckodriver	INFO	Listening on 127.0.0.1:33177
+1667459860560	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW3mXnz"
+Gtk-Message: 11:17:40.631: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667459861818	Marionette	INFO	Marionette enabled
+1667459861823	Marionette	INFO	Listening on port 36305
+Read port: 36305
+WebDriver BiDi listening on ws://127.0.0.1:51685
+1667459861987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW3mXnz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51685/devtools/browser/ba70bc63-de95-4b37-9343-81eae969b5b0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667459871467	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7791 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1439 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667460098845	geckodriver	INFO	Listening on 127.0.0.1:52829
+1667460099075	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileskHX6M"
+Gtk-Message: 11:21:39.146: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667460100583	Marionette	INFO	Marionette enabled
+1667460100589	Marionette	INFO	Listening on port 34513
+Read port: 34513
+WebDriver BiDi listening on ws://127.0.0.1:58393
+1667460100793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileskHX6M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58393/devtools/browser/8b6873ad-8600-4d44-b58e-b9c1f5afda8f
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667460156412	geckodriver	INFO	Listening on 127.0.0.1:53817
+1667460156672	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOkuVsz"
+Gtk-Message: 11:22:36.741: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667460158213	Marionette	INFO	Marionette enabled
+1667460158218	Marionette	INFO	Listening on port 38955
+Read port: 38955
+WebDriver BiDi listening on ws://127.0.0.1:40597
+1667460158461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOkuVsz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40597/devtools/browser/a985dc65-383d-4be6-acce-c0c279277e94
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1667460162708	Marionette	INFO	Stopped listening on port 40347
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667460163854	Marionette	INFO	Stopped listening on port 35529
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667460165525	Marionette	INFO	Stopped listening on port 36305
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667460166623	Marionette	INFO	Stopped listening on port 34513
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 305 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1469 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667460219950	geckodriver	INFO	Listening on 127.0.0.1:38905
+1667460220370	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqWkbMi"
+Gtk-Message: 11:23:40.438: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667460221572	Marionette	INFO	Marionette enabled
+1667460221576	Marionette	INFO	Listening on port 37669
+Read port: 37669
+WebDriver BiDi listening on ws://127.0.0.1:33453
+1667460221734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqWkbMi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33453/devtools/browser/5751a437-1fce-4478-868c-a0e1927259fa
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667460273560	geckodriver	INFO	Listening on 127.0.0.1:39903
+1667460273980	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9nhcRi"
+Gtk-Message: 11:24:34.050: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667460275387	Marionette	INFO	Marionette enabled
+1667460275392	Marionette	INFO	Listening on port 37363
+Read port: 37363
+WebDriver BiDi listening on ws://127.0.0.1:44973
+1667460275620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9nhcRi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44973/devtools/browser/29554ca7-8f99-42d1-883d-6d2dc0fbf82e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2889 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5391 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667460563795	geckodriver	INFO	Listening on 127.0.0.1:40553
+1667460564715	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA0m7T6"
+Gtk-Message: 11:29:24.788: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667460566175	Marionette	INFO	Marionette enabled
+1667460566187	Marionette	INFO	Listening on port 43689
+Read port: 43689
+WebDriver BiDi listening on ws://127.0.0.1:54177
+1667460566456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA0m7T6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54177/devtools/browser/4282d517-fe4b-4e96-bb29-e84b9d38a106
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 203 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4279 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667460602482	geckodriver	INFO	Listening on 127.0.0.1:57763
+1667460602817	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5An43p"
+Gtk-Message: 11:30:02.892: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667460604271	Marionette	INFO	Marionette enabled
+1667460604279	Marionette	INFO	Listening on port 37245
+Read port: 37245
+WebDriver BiDi listening on ws://127.0.0.1:53179
+1667460604590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5An43p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53179/devtools/browser/2f98c32b-10e0-4e9b-8466-cbb84a74f557
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4682 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667460685401	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1667460902315	geckodriver	INFO	Listening on 127.0.0.1:50461
+1667460902735	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTjnH8J"
+Gtk-Message: 11:35:02.827: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667460904474	Marionette	INFO	Marionette enabled
+1667460904484	Marionette	INFO	Listening on port 37093
+Read port: 37093
+WebDriver BiDi listening on ws://127.0.0.1:55699
+1667460904760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTjnH8J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55699/devtools/browser/fc2bc811-a0fe-4ff6-94ef-f6e5c6b7f3fe
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1667460912883	Marionette	INFO	Stopped listening on port 38955
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667460913868	Marionette	INFO	Stopped listening on port 37669
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667460914842	Marionette	INFO	Stopped listening on port 37363
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667460915961	Marionette	INFO	Stopped listening on port 43689
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667460917022	Marionette	INFO	Stopped listening on port 37245
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667460926037	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4158 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461263584	geckodriver	INFO	Listening on 127.0.0.1:42827
+1667461263915	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAIkLo7"
+Gtk-Message: 11:41:03.985: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461265130	Marionette	INFO	Marionette enabled
+1667461265135	Marionette	INFO	Listening on port 42913
+Read port: 42913
+WebDriver BiDi listening on ws://127.0.0.1:47131
+1667461265353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAIkLo7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47131/devtools/browser/e31abb62-f5e3-4bcb-a0cc-9ef84475ae58
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3577 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461315042	geckodriver	INFO	Listening on 127.0.0.1:36575
+1667461315416	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTrOBRt"
+Gtk-Message: 11:41:55.487: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461316841	Marionette	INFO	Marionette enabled
+1667461316846	Marionette	INFO	Listening on port 36847
+Read port: 36847
+WebDriver BiDi listening on ws://127.0.0.1:34749
+1667461317108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTrOBRt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34749/devtools/browser/0c84efe4-fc2f-4b35-b5ad-2d69da8ba22e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2742 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461347094	geckodriver	INFO	Listening on 127.0.0.1:35141
+1667461347546	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHp3wXT"
+Gtk-Message: 11:42:27.625: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461348854	Marionette	INFO	Marionette enabled
+1667461348862	Marionette	INFO	Listening on port 39587
+Read port: 39587
+WebDriver BiDi listening on ws://127.0.0.1:57449
+1667461349160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHp3wXT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57449/devtools/browser/3fb5eb85-0b34-44a3-aba4-099991e1911e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4142 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2385 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3829 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461363936	geckodriver	INFO	Listening on 127.0.0.1:58625
+1667461364324	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBDfS94"
+Gtk-Message: 11:42:44.402: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461365995	Marionette	INFO	Marionette enabled
+1667461366001	Marionette	INFO	Listening on port 43983
+Read port: 43983
+WebDriver BiDi listening on ws://127.0.0.1:39649
+1667461366163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBDfS94/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39649/devtools/browser/9904cf83-b0e4-4bac-bc9d-62a5567fe8b4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3872 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1727 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461394977	geckodriver	INFO	Listening on 127.0.0.1:53959
+1667461395465	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVjQIuN"
+Gtk-Message: 11:43:15.541: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461397045	Marionette	INFO	Marionette enabled
+1667461397047	Marionette	INFO	Listening on port 33301
+Read port: 33301
+WebDriver BiDi listening on ws://127.0.0.1:34413
+1667461397266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVjQIuN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34413/devtools/browser/b2e60af6-be19-4640-bd91-a9a289089aa5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667461404076	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667461404357	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5711305288167877&output=html&h=90&slotname=1928302466&adk=3219521958&adf=618640748&pi=t.ma~as.1928302466&w=728&lmt=1667459598&rafmt=12&format=728x90&url=https%3A%2F%2Fwww.randomlists.com%2Femail-addresses&wgl=1&dt=1667461400972&bpp=4&bdt=1033&idt=2591&shv=r20221101&mjsv=m202210270101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D20eefafb717da382-228ac60161ce00c2%3AT%3D1667461401%3ART%3D1667461401%3AS%3DALNI_Ma1jvGNu2fFgITh-ANgIqkWiP2r_A&gpic=UID%3D00000b7bc89cdb00%3AT%3D1667461401%3ART%3D1667461401%3AS%3DALNI_MZqfdruTxCWad8p_8v8c8vjCAkXgg&prev_fmts=0x0%2C728x90%2C1846x968&nras=2&correlator=3984993419321&frm=20&pv=1&ga_vid=1524440630.1667461401&ga_sid=1667461402&ga_hid=1618889811&ga_fc=1&u_tz=240&u_his=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1846&u_cd=24&u_sd=1&adx=401&ady=727&biw=1846&bih=968&scr_x=0&scr_y=0&eid=44759876%2C44759927%2C44759842%2C42531706%2C31069178%2C31070636%2C44770880%2C44775016&oid=2&pvsid=749499992941108&tmod=1341916676&nvt=1&eae=0&fc=1920&brdim=74%2C27%2C74%2C27%2C1846%2C27%2C1846%2C1053%2C1846%2C968&vis=2&rsz=%7C%7CpeEr%7C&abl=CS&pfx=0&fu=256&bc=31&ifi=3&uci=a!3&fsb=1&xpc=QrkLG0wOWi&p=https%3A//www.randomlists.com&dtd=2609, line 1: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461424961	Marionette	INFO	Stopped listening on port 37093
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667461425964	Marionette	INFO	Stopped listening on port 42913
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667461427099	Marionette	INFO	Stopped listening on port 36847
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667461428190	Marionette	INFO	Stopped listening on port 39587
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667461429123	Marionette	INFO	Stopped listening on port 43983
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667461467068	geckodriver	INFO	Listening on 127.0.0.1:50819
+1667461467604	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9Azkko"
+Gtk-Message: 11:44:27.672: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461469075	Marionette	INFO	Marionette enabled
+1667461469078	Marionette	INFO	Listening on port 35967
+Read port: 35967
+WebDriver BiDi listening on ws://127.0.0.1:38179
+1667461469161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Azkko/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38179/devtools/browser/d6eeba3e-2487-47a9-8b7b-c52cc76aad7f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461574762	geckodriver	INFO	Listening on 127.0.0.1:48321
+1667461575042	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYohWrh"
+Gtk-Message: 11:46:15.110: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461576230	Marionette	INFO	Marionette enabled
+1667461576235	Marionette	INFO	Listening on port 41673
+Read port: 41673
+WebDriver BiDi listening on ws://127.0.0.1:39997
+1667461576539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYohWrh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39997/devtools/browser/ca3a8625-dc65-432e-8d53-a758894bd8c3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5580 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5253 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461603956	geckodriver	INFO	Listening on 127.0.0.1:41873
+1667461604393	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepRy2SX"
+Gtk-Message: 11:46:44.464: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461605648	Marionette	INFO	Marionette enabled
+1667461605652	Marionette	INFO	Listening on port 41071
+Read port: 41071
+WebDriver BiDi listening on ws://127.0.0.1:37935
+1667461605782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepRy2SX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37935/devtools/browser/1308a8f0-6978-4754-88ec-ff83851f7ea3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667461615744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667461616285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1410 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461645624	Marionette	INFO	Stopped listening on port 33301
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667461648466	Marionette	INFO	Stopped listening on port 35967
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667461649777	Marionette	INFO	Stopped listening on port 41673
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667461720885	geckodriver	INFO	Listening on 127.0.0.1:33227
+1667461721328	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh6RJb0"
+Gtk-Message: 11:48:41.395: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461722265	Marionette	INFO	Marionette enabled
+1667461722271	Marionette	INFO	Listening on port 33383
+Read port: 33383
+WebDriver BiDi listening on ws://127.0.0.1:38043
+1667461722543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh6RJb0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38043/devtools/browser/3758ddc1-f00e-459d-8219-181292032d16
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6032 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 874 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4473 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461752221	geckodriver	INFO	Listening on 127.0.0.1:58793
+1667461752549	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexbjtwM"
+Gtk-Message: 11:49:12.620: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461753672	Marionette	INFO	Marionette enabled
+1667461753677	Marionette	INFO	Listening on port 35223
+Read port: 35223
+WebDriver BiDi listening on ws://127.0.0.1:36221
+1667461753901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexbjtwM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36221/devtools/browser/a47b26b2-b2b9-4723-93f0-5217fa7179e7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7730 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461771191	geckodriver	INFO	Listening on 127.0.0.1:46323
+1667461771525	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyGYYsi"
+Gtk-Message: 11:49:31.594: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461772906	Marionette	INFO	Marionette enabled
+1667461772910	Marionette	INFO	Listening on port 37925
+Read port: 37925
+WebDriver BiDi listening on ws://127.0.0.1:34251
+1667461773131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyGYYsi/search.json.mozlz4", (void 0)))
+1667461775029	Marionette	INFO	Stopped listening on port 41071
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:34251/devtools/browser/4dbe766b-356e-4ca9-9805-fbf03915c680
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1667461776108	Marionette	INFO	Stopped listening on port 33383
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667461777210	Marionette	INFO	Stopped listening on port 35223
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5796 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1630 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3308 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461795062	geckodriver	INFO	Listening on 127.0.0.1:49607
+1667461795494	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileidunjf"
+Gtk-Message: 11:49:55.562: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461796741	Marionette	INFO	Marionette enabled
+1667461796745	Marionette	INFO	Listening on port 32815
+Read port: 32815
+WebDriver BiDi listening on ws://127.0.0.1:41419
+1667461796938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileidunjf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41419/devtools/browser/582f2dc8-3db2-4050-818d-f3fe1dba5fef
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667461802820	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7584 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461835803	geckodriver	INFO	Listening on 127.0.0.1:49927
+1667461836232	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQDbAwX"
+Gtk-Message: 11:50:36.302: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461837517	Marionette	INFO	Marionette enabled
+1667461837522	Marionette	INFO	Listening on port 40605
+Read port: 40605
+WebDriver BiDi listening on ws://127.0.0.1:50323
+1667461837753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQDbAwX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50323/devtools/browser/bf705410-94f8-47f8-b318-f34054b9abc0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 3389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1008 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4623 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461882378	geckodriver	INFO	Listening on 127.0.0.1:57571
+1667461882813	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6YS52Q"
+Gtk-Message: 11:51:22.883: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461883680	Marionette	INFO	Marionette enabled
+1667461883684	Marionette	INFO	Listening on port 46567
+Read port: 46567
+WebDriver BiDi listening on ws://127.0.0.1:52421
+1667461883949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6YS52Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52421/devtools/browser/8f597deb-0df3-47d3-8147-68a63bbece6d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667461888169	Marionette	INFO	Stopped listening on port 37925
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2020 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461890967	Marionette	INFO	Stopped listening on port 32815
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667461892232	Marionette	INFO	Stopped listening on port 40605
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667461988457	geckodriver	INFO	Listening on 127.0.0.1:48671
+1667461988875	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilergg8h3"
+Gtk-Message: 11:53:08.946: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667461990459	Marionette	INFO	Marionette enabled
+1667461990465	Marionette	INFO	Listening on port 39787
+Read port: 39787
+WebDriver BiDi listening on ws://127.0.0.1:48207
+1667461990739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilergg8h3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48207/devtools/browser/ff93d515-ca4a-4fdb-9c7d-cd4eb5997dd7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1667462057776	Marionette	INFO	Stopped listening on port 46567
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667462060611	Marionette	INFO	Stopped listening on port 39787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667462067318	geckodriver	INFO	Listening on 127.0.0.1:57481
+1667462067749	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZAiG4T"
+Gtk-Message: 11:54:27.828: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667462069223	Marionette	INFO	Marionette enabled
+1667462069230	Marionette	INFO	Listening on port 43167
+Read port: 43167
+WebDriver BiDi listening on ws://127.0.0.1:54131
+1667462069497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZAiG4T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54131/devtools/browser/b2399a08-55a0-4921-b3f8-136fbd3c3f27
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1667462082138	Marionette	INFO	Stopped listening on port 43167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667462109249	geckodriver	INFO	Listening on 127.0.0.1:45079
+1667462109608	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegmznmH"
+Gtk-Message: 11:55:09.681: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667462110832	Marionette	INFO	Marionette enabled
+1667462110836	Marionette	INFO	Listening on port 39565
+Read port: 39565
+WebDriver BiDi listening on ws://127.0.0.1:42241
+1667462111055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegmznmH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42241/devtools/browser/088e8946-b096-4e70-bb1a-6b84ae885cab
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1667462144545	Marionette	INFO	Stopped listening on port 39565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667462174421	geckodriver	INFO	Listening on 127.0.0.1:40551
+1667462174844	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9Mruav"
+Gtk-Message: 11:56:14.931: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667462175891	Marionette	INFO	Marionette enabled
+1667462175896	Marionette	INFO	Listening on port 35517
+Read port: 35517
+WebDriver BiDi listening on ws://127.0.0.1:42923
+1667462176099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Mruav/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42923/devtools/browser/8fa083f5-86a3-48cd-b222-957666ba5f30
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Loading player data from data.unity3d
+Initialize engine version: 2019.4.16f1 (e05b6e02d63e)
+[Subsystems] Discovering subsystems at path UnitySubsystems
+Renderer: NVIDIA GeForce GTX 980/PCIe/SSE2
+Vendor:   Mozilla
+Version:  OpenGL ES 3.0 (WebGL 2.0)
+GLES:     3
+ EXT_color_buffer_float GL_EXT_color_buffer_float EXT_float_blend GL_EXT_float_blend EXT_texture_compression_bptc GL_EXT_texture_compression_bptc EXT_texture_compression_rgtc GL_EXT_texture_compression_rgtc EXT_texture_filter_anisotropic GL_EXT_texture_filter_anisotropic OES_texture_float_linear GL_OES_texture_float_linear OVR_multiview2 GL_OVR_multiview2 WEBGL_compressed_texture_etc GL_WEBGL_compressed_texture_etc WEBGL_compressed_texture_s3tc GL_WEBGL_compressed_texture_s3tc WEBGL_compressed_texture_s3tc_srgb GL_WEBGL_compressed_texture_s3tc_srgb WEBGL_debug_renderer_info GL_WEBGL_debug_renderer_info WEBGL_debug_shaders GL_WEBGL_debug_shaders WEBGL_lose_context GL_WEBGL_lose_context
+OPENGL LOG: Creating OpenGL ES 3.0 graphics device ; Context level  <OpenGL ES 3.0> ; Context handle 32250440
+UnloadTime: 1.000000 ms
+Input Manager initialize...
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+Calling JS Plugin GetRegionFromHostName with result: www.moviestarplanet.com
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+UnityIAP Version: 1.23.4
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1667462305056	geckodriver	INFO	Listening on 127.0.0.1:40155
+1667462305579	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAKv6Bp"
+Gtk-Message: 11:58:25.653: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667462307133	Marionette	INFO	Marionette enabled
+1667462307149	Marionette	INFO	Listening on port 37977
+Read port: 37977
+WebDriver BiDi listening on ws://127.0.0.1:34727
+1667462307431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAKv6Bp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34727/devtools/browser/2af7c695-0e5a-47ee-a875-ce501d74a567
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.one.com/en/websitebuilder line 548 > injectedScript, line 1: ReferenceError: items is not defined
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www.one.com/en/about/contact-us line 1861 > injectedScript, line 1451: TypeError: sourceElement.querySelector(...) is null
+JavaScript error: https://www-static.cdn-one.com/js/dist/onecom/onecom.bundle.v1.0.16.js, line 1: Error: Script error for: //www-static.cdn-one.com/js/modernizr-2.8.3-1.js?v1.0.0
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www-static.cdn-one.com/js/dist/onecom/onecom.bundle.v1.0.16.js, line 1: Error: Script error for: //www-static.cdn-one.com/js/global-1.0.11.js?v1.0.0
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.one.com/en/about/contact-us line 548 > injectedScript, line 1: ReferenceError: items is not defined
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: blob:https://www.moviestarplanet.com/b98bb4de-9e56-41a3-b6bc-a6d816b40b5f, line 8: TypeError: Module.asm.stackSave is undefined
+Loading player data from data.unity3d
+Initialize engine version: 2019.4.16f1 (e05b6e02d63e)
+[Subsystems] Discovering subsystems at path UnitySubsystems
+Renderer: NVIDIA GeForce GTX 980/PCIe/SSE2
+Vendor:   Mozilla
+Version:  OpenGL ES 3.0 (WebGL 2.0)
+GLES:     3
+ EXT_color_buffer_float GL_EXT_color_buffer_float EXT_float_blend GL_EXT_float_blend EXT_texture_compression_bptc GL_EXT_texture_compression_bptc EXT_texture_compression_rgtc GL_EXT_texture_compression_rgtc EXT_texture_filter_anisotropic GL_EXT_texture_filter_anisotropic OES_texture_float_linear GL_OES_texture_float_linear OVR_multiview2 GL_OVR_multiview2 WEBGL_compressed_texture_etc GL_WEBGL_compressed_texture_etc WEBGL_compressed_texture_s3tc GL_WEBGL_compressed_texture_s3tc WEBGL_compressed_texture_s3tc_srgb GL_WEBGL_compressed_texture_s3tc_srgb WEBGL_debug_renderer_info GL_WEBGL_debug_renderer_info WEBGL_debug_shaders GL_WEBGL_debug_shaders WEBGL_lose_context GL_WEBGL_lose_context
+OPENGL LOG: Creating OpenGL ES 3.0 graphics device ; Context level  <OpenGL ES 3.0> ; Context handle 32250440
+UnloadTime: 0.000000 ms
+Input Manager initialize...
+Calling JS Plugin GetRegionFromHostName with result: www.moviestarplanet.com
+UnityIAP Version: 1.23.4
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://www.moviestarplanet.com/unity/Build/UnityLoader.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: blob:https://www.moviestarplanet.com/18595d31-8c70-4156-b909-4f2ab19ae100, line 8: TypeError: Module.asm.stackSave is undefined
+Loading player data from data.unity3d
+Initialize engine version: 2019.4.16f1 (e05b6e02d63e)
+[Subsystems] Discovering subsystems at path UnitySubsystems
+Renderer: NVIDIA GeForce GTX 980/PCIe/SSE2
+Vendor:   Mozilla
+Version:  OpenGL ES 3.0 (WebGL 2.0)
+GLES:     3
+ EXT_color_buffer_float GL_EXT_color_buffer_float EXT_float_blend GL_EXT_float_blend EXT_texture_compression_bptc GL_EXT_texture_compression_bptc EXT_texture_compression_rgtc GL_EXT_texture_compression_rgtc EXT_texture_filter_anisotropic GL_EXT_texture_filter_anisotropic OES_texture_float_linear GL_OES_texture_float_linear OVR_multiview2 GL_OVR_multiview2 WEBGL_compressed_texture_etc GL_WEBGL_compressed_texture_etc WEBGL_compressed_texture_s3tc GL_WEBGL_compressed_texture_s3tc WEBGL_compressed_texture_s3tc_srgb GL_WEBGL_compressed_texture_s3tc_srgb WEBGL_debug_renderer_info GL_WEBGL_debug_renderer_info WEBGL_debug_shaders GL_WEBGL_debug_shaders WEBGL_lose_context GL_WEBGL_lose_context
+OPENGL LOG: Creating OpenGL ES 3.0 graphics device ; Context level  <OpenGL ES 3.0> ; Context handle 32250440
+UnloadTime: 1.000000 ms
+Input Manager initialize...
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+Calling JS Plugin GetRegionFromHostName with result: www.moviestarplanet.com
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+UnityIAP Version: 1.23.4
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: https://www.moviestarplanet2.com/Build/1155/MSP2.loader.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Loading player data from data.unity3d
+Initialize engine version: 2020.3.38f1 (8f5fde82e2dc)
+[Subsystems] Discovering subsystems at path UnitySubsystems
+Renderer: NVIDIA GeForce GTX 980/PCIe/SSE2
+Vendor:   Mozilla
+Version:  OpenGL ES 3.0 (WebGL 2.0)
+GLES:     3
+ EXT_color_buffer_float GL_EXT_color_buffer_float EXT_float_blend GL_EXT_float_blend EXT_texture_compression_bptc GL_EXT_texture_compression_bptc EXT_texture_compression_rgtc GL_EXT_texture_compression_rgtc EXT_texture_filter_anisotropic GL_EXT_texture_filter_anisotropic OES_texture_float_linear GL_OES_texture_float_linear OVR_multiview2 GL_OVR_multiview2 WEBGL_compressed_texture_etc GL_WEBGL_compressed_texture_etc WEBGL_compressed_texture_s3tc GL_WEBGL_compressed_texture_s3tc WEBGL_compressed_texture_s3tc_srgb GL_WEBGL_compressed_texture_s3tc_srgb WEBGL_debug_renderer_info GL_WEBGL_debug_renderer_info WEBGL_debug_shaders GL_WEBGL_debug_shaders WEBGL_lose_context GL_WEBGL_lose_context
+OPENGL LOG: Creating OpenGL ES 3.0 graphics device ; Context level  <OpenGL ES 3.0> ; Context handle 49870504
+Input Manager initialize...
+UnloadTime: 1.000000 ms
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+Uploading Crash Report
+DependencyTreeComponentHashException: Exception of type 'Unity.Services.Core.Internal.DependencyTreeComponentHashException' was thrown.
+  at Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter.GetPackageTypeHashFor (System.Int32 componentTypeHash) [0x00000] in <00000000000000000000000000000000>:0 
+Rethrow as DependencyTreePackageHashException: Component with hash[49436488] threw exception when sorting package[60746536][Ua2CoreInitializeCallback]
+  at Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter.SortTreeThrough (System.Int32 packageTypeHash) [0x00000] in <00000000000000000000000000000000>:0 
+Rethrow as DependencyTreeSortFailedException: Failed to sort tree! It is likely there is a missing required dependency:
+{
+  "ordered": [
+    {
+      "packageHash": 62605896,
+      "packageProvider": "CorePackageInitializer",
+      "packageDependencies": []
+    }
+  ],
+  "packages": [
+    {
+      "packageHash": 60746536,
+      "packageProvider": "Ua2CoreInitializeCallback",
+      "packageDependencies": [
+        {
+          "dependencyHash": 64756024,
+          "dependencyComponent": "IInstallationId",
+          "dependencyProvided": "true",
+          "dependencyOptional": "false"
+        },
+        {
+          "dependencyHash": 65856816,
+          "dependencyComponent": "IEnvironments",
+          "dependencyProvided": "true",
+          "dependencyOptional": "false"
+        },
+        {
+          "dependencyHash": 60426712,
+          "dependencyComponent": "IProjectConfiguration",
+          "dependencyProvided": "true",
+          "dependencyOptional": "false"
+        },
+        {
+          "dependencyHash": 49436488,
+          "dependencyComponent": "IPlayerId",
+          "dependencyProvided": "false",
+          "dependencyOptional": "false"
+        }
+      ]
+    },
+    {
+      "packageHash": 62605896,
+      "packageProvider": "CorePackageInitializer",
+      "packageDependencies": []
+    },
+    {
+      "packageHash": 61486480,
+      "packageProvider": "CorePackageInitializer",
+      "packageDependencies": [
+        {
+          "dependencyHash": 60426712,
+          "dependencyComponent": "IProjectConfiguration",
+          "dependencyProvided": "true",
+          "dependencyOptional": "false"
+        },
+        {
+          "dependencyHash": 64756024,
+          "dependencyComponent": "IInstallationId",
+          "dependencyProvided": "true",
+          "dependencyOptional": "false"
+        },
+        {
+          "dependencyHash": 49439320,
+          "dependencyComponent": "IAccessToken",
+          "dependencyProvided": "false",
+          "dependencyOptional": "false"
+        },
+        {
+          "dependencyHash": 49436488,
+          "dependencyComponent": "IPlayerId",
+          "dependencyProvided": "false",
+          "dependencyOptional": "false"
+        }
+      ]
+    },
+    {
+      "packageHash": 62993680,
+      "packageProvider": "IapCoreInitializeCallback",
+      "packageDependencies": [
+        {
+          "dependencyHash": 60680424,
+          "dependencyComponent": "IMetricsFactory",
+          "dependencyProvided": "true",
+          "dependencyOptional": "false"
+        },
+        {
+          "dependencyHash": 60839760,
+          "dependencyComponent": "IDiagnosticsFactory",
+          "dependencyProvided": "true",
+          "dependencyOptional": "false"
+        }
+      ]
+    }
+  ],
+  "components": [
+    {
+      "componentHash": 64756024,
+      "component": "IInstallationId",
+      "componentPackageHash": 62605896,
+      "componentPackage": "CorePackageInitializer"
+    },
+    {
+      "componentHash": 65856816,
+      "component": "IEnvironments",
+      "componentPackageHash": 62605896,
+      "componentPackage": "CorePackageInitializer"
+    },
+    {
+      "componentHash": 60426712,
+      "component": "IProjectConfiguration",
+      "componentPackageHash": 62605896,
+      "componentPackage": "CorePackageInitializer"
+    },
+    {
+      "componentHash": 49436488,
+      "component": "IPlayerId",
+      "componentPackageHash": 0,
+      "componentPackage": "null"
+    },
+    {
+      "componentHash": 49439320,
+      "component": "IAccessToken",
+      "componentPackageHash": 0,
+      "componentPackage": "null"
+    },
+    {
+      "componentHash": 60680424,
+      "component": "IMetricsFactory",
+      "componentPackageHash": 62605896,
+      "componentPackage": "CorePackageInitializer"
+    },
+    {
+      "componentHash": 60839760,
+      "component": "IDiagnosticsFactory",
+      "componentPackageHash": 62605896,
+      "componentPackage": "CorePackageInitializer"
+    }
+  ]
+}
+ Error: Component with hash[49436488] threw exception when sorting package[60746536][Ua2CoreInitializeCallback]
+  at Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter.SortRegisteredPackagesIntoTarget () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+[ServicesCore]: En error occured while trying to get the project configuration for services.
+Unexpected character encountered while parsing value: c. Path 'Keys', line 1, position 10.
+  at Newtonsoft.Json.JsonTextReader.ReadStringValue (Newtonsoft.Json.ReadType readType) [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+1667463335424	geckodriver	INFO	Listening on 127.0.0.1:56113
+1667463335748	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezlUr75"
+Gtk-Message: 12:15:35.818: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667463338077	Marionette	INFO	Marionette enabled
+1667463338092	Marionette	INFO	Listening on port 45987
+Read port: 45987
+WebDriver BiDi listening on ws://127.0.0.1:47015
+1667463338365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezlUr75/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47015/devtools/browser/06126a28-62a6-4b52-b3c5-905265647832
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 894 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2543 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667463434376	Marionette	INFO	Stopped listening on port 35517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667463435427	Marionette	INFO	Stopped listening on port 37977
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667463437251	Marionette	INFO	Stopped listening on port 45987
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
